@@ -8,7 +8,7 @@
 - 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving and exploring new technologies.
 - 🎓 &nbsp;I'm currently pursuing Masters in Business Analytics and Project Management (Data Science) at University of Connecticut, Connecticut.
 - 🌱 &nbsp;Passionate about learning more in the fields of Machine Learning, Deep Learning, and Cloud Computing.
-- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer -Data Management Analyst and actively looking for full-time opportunities for DS and DA roles.
+- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer - Senior Data Analyst and actively looking for full-time opportunities for DS and DA roles.
 - ✉️ &nbsp;You can shoot me an email at sai_deepika.bandari@uconn.edu for any discussions or opportunities!
 
 
