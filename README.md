@@ -19,6 +19,10 @@
 - 🔧 &nbsp;Microsoft Azure | AWS | Git | Tableau | PowerBI | Power Apps | Excel
 - 🌐 &nbsp;HTML | CSS | JavaScript | React
 
+# 📜 Certifications
+### 1. **Microsoft Certified: Azure Fundamentals (AZ-900)**
+![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg)
+![Azure Fundamentals Badge](https://www.credly.com/badges/b6b4f6ac-8c34-415f-b68c-125635c22f95/public_url)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
