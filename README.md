@@ -5,18 +5,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving ,providing insights into business decisions and exploring new technologies.
-- 🎓 &nbsp;I'm currently pursuing Masters in Business Analytics and Project Management (Data Science) at University of Connecticut, Connecticut.
-- 🌱 &nbsp;Passionate about learning more in the fields of Data Science, Machine Learning
-- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer - Senior Data Analyst and actively looking for full-time opportunities for DS and DA roles.
-- ✉️ &nbsp;You can shoot me an email at sai_deepika.bandari@uconn.edu for any discussions or opportunities!
+- 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving , providing insights into business decisions , and exploring new technologies.
+- 🎓 &nbsp;I recently graduated from University of Connecticut with a Masters in Business Analytics and Project Management , Data Science Concentration.
+- 🌱 &nbsp;Passionate about learning more in the fields of Data analytics, Business Intelligence, Data Science and Machine Learning.
+- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer - Senior Data Analyst and actively looking for full-time opportunities for Data Analyst,Business Intelligence Analyst/Developer and Data Scientist roles.
+- ✉️ &nbsp;You can email me at sai_deepika.bandari@uconn.edu for any discussions or opportunities!
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;C# | Python | SQL | R | Angular 
 - 🛢 &nbsp;MySQL | MS SQL Server | Oracle SQL
-- 🔧 &nbsp;Microsoft Azure | AWS | Git | Tableau | PowerBI | Power Apps
+- 🔧 &nbsp;Microsoft Azure | AWS | Git | Tableau | PowerBI | Power Apps | Excel
 - 🌐 &nbsp;HTML | CSS | JavaScript | React
 
 
