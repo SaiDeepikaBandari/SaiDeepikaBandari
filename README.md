@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving , providing insights into business decisions , and exploring new technologies.
-- 🎓 &nbsp;I recently graduated from University of Connecticut with a Masters in Business Analytics and Project Management , Data Science Concentration.
-- 🌱 &nbsp;Passionate about learning more in the fields of Data analytics, Business Intelligence, Data Science and Machine Learning.
-- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer - Senior Data Analyst and actively looking for full-time opportunities for Data Analyst,Business Intelligence Analyst/Developer and Data Scientist roles.
+- 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving, providing insights into business decisions, and exploring new technologies.
+- 🎓 &nbsp;I recently graduated from University of Connecticut with a Masters in Business Analytics and Project Management, Data Science Concentration.
+- 🌱 &nbsp;Passionate about learning more in the fields of Data analytics, Business Intelligence, Data Science, and Machine Learning.
+- 👩‍💻 &nbsp;I have almost 5 years of experience as Software Engineer - Senior Data Analyst and actively looking for full-time opportunities for Data Analyst, Business Intelligence Analyst/Developer, and Data Scientist roles.
 - ✉️ &nbsp;You can email me at sai_deepika.bandari@uconn.edu for any discussions or opportunities!
 
 
