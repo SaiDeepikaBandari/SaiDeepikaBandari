@@ -20,7 +20,8 @@
 - 🌐 &nbsp;HTML | CSS | JavaScript | React
 
 ### 📜 Certifications
-- 1. **Microsoft Certified: Azure Fundamentals (AZ-900)** : [View Certificate](https://www.credly.com/badges/b6b4f6ac-8c34-415f-b68c-125635c22f95/public_url)
+- [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://www.credly.com/badges/b6b4f6ac-8c34-415f-b68c-125635c22f95/public_url)
+- [**Jira Fundamnetals**](https://university.atlassian.com/student/award/V2rLbD6t1QkxX8Sfszh22St6)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
