@@ -15,7 +15,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;C# | Python | SQL | R | Angular | SAS 
-- 🛢 &nbsp;MySQL | MS SQL Server | Oracle SQL
+- 🛢 &nbsp;MySQL | MS SQL Server | Oracle SQL | PostgreSQL
 - 🔧 &nbsp;Microsoft Azure | AWS | Git | Tableau | PowerBI | Power Apps | Excel
 - 🌐 &nbsp;HTML | CSS | JavaScript | React
 
